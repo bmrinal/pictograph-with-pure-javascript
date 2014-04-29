@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6, p
     vertical-align: baseline;
     background: transparent;
 }
-
+#shabana{clear:both;float:left;margin-top:20px;margin-left:13%;border:solid 1px black;height:200px;width:400px;}
 hr {
     height: 0;
     -moz-box-sizing: content-box;
