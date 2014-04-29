@@ -7,8 +7,8 @@ The complete code is written using pure javascript and HTML5 APIs(canvas, dragan
 A very good exercise for someone jumping into rendering based on pure js using HTML5 Canvas features.
 
 <h3>Features</h3>
-No setup required. Just open the index.html and it should run out of the box!
-Pure javascript
-HTML5 canvas plus drag and drop API
-Multiple pictographs can be added
-The data in pictograph can be dynamically supplied through a GUI
+No setup required. Just open the index.html and it should run out of the box!<br>
+Pure javascript<br>
+HTML5 canvas plus drag and drop API<br>
+Multiple pictographs can be added<br>
+The data in pictograph can be dynamically supplied through a GUI<br>
