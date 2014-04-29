@@ -12,3 +12,4 @@ Pure javascript<br>
 HTML5 canvas plus drag and drop API<br>
 Multiple pictographs can be added<br>
 The data in pictograph can be dynamically supplied through a GUI<br>
+You can even publish the generated pictograph as an image!
